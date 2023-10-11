@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Deicatória</title>
+   <link rel="stylesheet" href="./CSS/projx.css">
+   
+</head>
+<body class="all">
+    <div class="container">
+        <div class="inicio">
+            <h1 class="D">Dedicatória a Lorena Gomes</h1>
+                <p class="L">Homenagem a mulher mais íncrivel do mundo</p>
+        </div>
+    </div>
+    <figure class="figu">
+        <img src="./img/loh.PNG" alt="lorena">
+        <figcaption class="dfoto">Apaixonada por captar momentos em fotos, sua beleza é <b class="bold">única.</b></figcaption>
+    </figure>
+    <div class="bodytext">
+        <h2 class="header">Sobre Lorena Gomes:</h2>
+        <p>Amo dividir a vida com você, desde que estamos juntos, sinto que tudo é possível.</p>
+        <p> <b class="bold">Teimosa</b> e chorona, eu amo conviver com seus defeitos, amo acalentar e me sentir presente nos seus momentos mais dificeis</p>
+        <p>Seu coração é feito de ouro, daquele mais valioso, sabe? Ele é generoso e acolhedor, sempre pronto para estender uma mão amiga. É um coração que pulsa amor e compaixão, e quem tem a sorte de conhecê-lo se sente abraçado por uma paz única.</p> 
+        <p>Seu perfeccionismo é daqueles que tem um toque de carinho, é como cuidar de um jardim para que as flores cresçam ainda mais belas. Às vezes, pode te cobrar demais, mas é essa busca pela perfeição que te faz brilhar em tudo o que faz. E para mim, você é perfeita, exatamente como é.</p>
+    </div>
+    <div class="coment1">
+        <h5 class="coment">"O futuro a Deus pertence"</h5> 
+        <p class="autor">"Gomes, Lorena"</p>
+    </div>
+    <figure class=" img2"> 
+        <img src="./img/Capturar2.PNG" alt="lorena">
+        <figcaption>Mais uma foto de lorena</figcaption>
+    </figure>
+    <div class="curiosidades">
+        <h3>Curiosidades:</h3>
+        <ul>
+            <li>Ama doces no geral, e uma quedinha pelo Iago.</li>
+            <li>Muito organizada, ao extremo.</li>
+            <li>Não é fã de carne, por mais que seja diferente, ela realmente prefere ovo a carne,</li>
+            <li> tem muitas e muitas costume diferentes, a que mais se destaca é se olhar no espelo e girar o corpo, </li>
+        </ul>
+    </div>
+    <div class="coment2">
+        <h2 class="coment2">"parei"</h2>
+        <p class="autor2">"gomes,Lorena"</p>
+    </div>
+    <div class="img3">
+        <img src="./img/Capturar.PNG" alt="loh">
+        <figcaption>Lorena feliz com seu esposo Iago.❤️</figcaption>
+    </div>
+    <div class="info"> 
+        <h3>Acompanhe Lorena no instagram:</h3>
+        <p class="p">*Clique na logo do instagram*</p>
+             <div>
+                 <a class="logo" href="https://www.instagram.com/gomes_lohh/?img_index=1"><i><img class="logo" src="./img/instagram.png" alt="instagram"></i></a>
+             </div>
+    </div>
+    <Div class="final">
+        <h4> VOCÊ É INCRIVEL, TE AMO!!</h4>
+    </Div>
+
+</body>
+</html>
