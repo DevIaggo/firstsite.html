@@ -1,0 +1,83 @@
+html{
+    font-family: Helvetica;
+    background-color: rgb(216, 233, 255);
+
+}
+.bold{
+    font-weight: bold;
+}
+.all{
+    max-width: 1300px;
+    background-color: #fff;
+    position: relative;
+    margin: 40px auto;
+    padding: 20px 50px;
+}
+.bodytext{
+background-color: rgb(218, 216, 216);
+padding: 5px 10px 10px 10px;
+border-radius: 15px;
+margin-bottom: 60px;
+
+}
+.container{
+    text-align: center;
+}
+.inicio{
+    background-color: #fff;
+    padding: 10px 10px 0px 10px;
+   
+
+}
+.figu{
+ text-align: center;
+}
+.dfoto{
+    font-family: fantasy;
+}
+.coment1{
+    background-color: rgb(218, 216, 216);
+padding: 5px 10px 10px 10px;
+border-radius: 15px;
+}
+.coment1{
+    font-family:serif;
+    font-size: larger;
+    text-align: center;
+    margin-bottom: 30px;
+}
+.curiosidades{
+    background-color: rgb(218, 216, 216);
+    padding: 5px 10px 10px 10px;
+    border-radius: 15px;
+    margin-bottom: 60px;
+}
+.coment2{
+    background-color: rgb(218, 216, 216);
+    padding: 5px 10px 10px 10px;
+    border-radius: 15px;
+    font-family:serif;
+    font-size: larger;
+    text-align: center;
+    margin-bottom: 30px;
+}
+.img2{
+    font-family: fantasy;
+    text-align: center;
+}
+.img3{
+    font-family: fantasy;
+    text-align: center;
+    
+}
+.final{
+    font-family: fantasy;
+    text-align: center;
+}
+.p{
+    color: rgb(212, 208, 208);    
+}
+.logo{
+    width: 50px;
+    height: auto;
+}
